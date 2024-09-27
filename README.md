@@ -19,7 +19,7 @@ Nuestros clientes los clasificamos por *hobbies, altura, peso, nombre...*, adem�
 >Nuestro enlace para comprar los productos:  
 https://www.pccomponentes.com/  
 
-![Logo de nuestra compañía](https://s10.s3c.es/imag/_v0/770x420/e/0/2/700x420_Nuevo-Logo-PcComponentes-770.jpg)
+![Logo de nuestra compañía](https://www.info-computer.com/modules/dbblog/views/img/post/ordenador-portatil-u-ordenador-de-sobremesa.jpg).
 
 ### Un ejemplo de JSON i YAML de como tenemos organizados a nuestros clientes
 
